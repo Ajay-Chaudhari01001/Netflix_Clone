@@ -1,6 +1,12 @@
 # Netflix_Clone
 This is simple netflix clone app which show you movies by categories
 
+## Technology Use:
+- IMDb API: Leveraged the IMDb API to retrieve movie and TV show data, including titles, genres, ratings, and cast information.
+- YouTube API: Integrated the YouTube API to fetch trailers and promotional videos for each title.
+Front-end: HTML, CSS, JavaScript
+- Version Control: Git, GitHub
+- Deployment: Github Pages
 ## Visit
  [Click Here](https://ajay-chaudhari01001.github.io/Netflix_Clone/) :)
 
