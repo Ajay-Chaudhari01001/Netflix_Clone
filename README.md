@@ -1,5 +1,5 @@
 # Netflix_Clone
-This is simple netflix clone app which show you movies by categories
+This is simple netflix clone app which show you movies by categories Amd top trending movies on the banner home page
 
 ## Technology Use:
 - IMDb API: Leveraged the IMDb API to retrieve movie and TV show data, including titles, genres, ratings, and cast information.
